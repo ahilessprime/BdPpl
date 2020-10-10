@@ -6,11 +6,4 @@ public class Main {
     }
 }
 
-class BddPpl{
 
-    public void run(){
-
-    }
-
-
-}
